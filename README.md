@@ -2,7 +2,9 @@
 
 ## See more about me and my work on my [portfolio](https://brettsherwood.dev/)
 
--🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<img align="left" alt="website" width="40px" src="./images/favicon.png" /><br/>
+<img align="left" alt="website" width="40px" src="./images/favicon.png" />
+
+-🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<br/>
 -🔭 Currently working on [a book app](https://github.com/bsherwood9/knjiga-fe)<br/>
 -🔍 Currently studying more about Data Structures and Algorithms<br/>
 -📚 Currently reading [In Love With The World by Yongey Rinpoche](https://www.amazon.com/Love-World-Journey-Through-Bardos/dp/0525512535)<br/>
