@@ -2,6 +2,7 @@
 
 ## See more about me and my work on my [portfolio](https://brettsherwood.dev/)
 
+<h1>About Me</h1>
 -🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<br/>
 -🔭 Currently working on [a book app](https://github.com/bsherwood9/knjiga-fe)<br/>
 -🔍 Currently studying more about Data Structures and Algorithms<br/>
@@ -27,8 +28,6 @@
 <img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <br/>
 <br/>
-
-⚡️ <h1>Fun Facts!</h1>
 
 <h2>My Stats</h2>
 
