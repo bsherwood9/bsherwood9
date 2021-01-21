@@ -2,7 +2,8 @@
 
 ## See more about me and my work on my [portfolio](https://brettsherwood.dev/)
 
-##🚀 About Me
+## About Me
+
 -🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<br/>
 -🔭 Currently working on [a book app](https://github.com/bsherwood9/knjiga-fe)<br/>
 -🔍 Currently studying more about Data Structures and Algorithms<br/>
