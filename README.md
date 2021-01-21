@@ -33,5 +33,5 @@
 <h2>My Stats</h2>
 
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsherwood9&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsherwood9&layout=compact&hide=jupyter%20notebook" />
