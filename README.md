@@ -1,4 +1,4 @@
-# I'm Brett Sherwood. Web Developer. QA Engineer. Avid Reader. Liverpool fan.
+# I'm Brett Sherwood. Web Developer. QA Engineer. Always Curious.
 
 ## See more about me and my work on my [portfolio](https://brettsherwood.dev/)
 
@@ -27,6 +27,9 @@
 <img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <br/>
 <br/>
+
+⚡️ <h1>Fun Facts!</h1>
+
 <h2>My Stats</h2>
 
 <img align="left" color="green" alt="Brett Sherwood's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bsherwood9&show_icons=true&hide_border=false" />
