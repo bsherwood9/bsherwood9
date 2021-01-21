@@ -2,18 +2,20 @@
 
 ## See more about me and my work on my [portfolio](https://brettsherwood.dev/)
 
--🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<img align="left" alt="website" width="40px" src="./images/favicon.png" /><br/>
+-🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<br/>
 -🔭 Currently working on [a book app](https://github.com/bsherwood9/knjiga-fe)<br/>
 -🔍 Currently studying more about Data Structures and Algorithms<br/>
 -📚 Currently reading [In Love With The World by Yongey Rinpoche](https://www.amazon.com/Love-World-Journey-Through-Bardos/dp/0525512535)<br/>
 -🥅 2021 Goals: Find my first dev job!<br/>
 
-##Get in Touch
+<h2>Get in Touch</h2>
 
 [<img align="left" alt="Brett Sherwood|LinkedIn" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/brett-sherwood/)
 [<img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/bsherwood9)
+<br/>
 
-##Favorite Tools
+<br/>
+<h2>Favorite Tools</h2>
 
 <img align="left" alt="Python" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -23,7 +25,8 @@
 <img align="left" alt="PostgreSQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-##My Stats
+<br/>
+<br/>
+<h2>My Stats</h2>
 
 <img align="left" color="green" alt="Brett Sherwood's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bsherwood9&show_icons=true&hide_border=false" />
