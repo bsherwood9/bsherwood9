@@ -4,11 +4,10 @@
 
 ## About Me
 
--🖥 Currently working as a Senior QA Engineer at [SoftServe Inc](https://www.softserveinc.com/en-us)<br/>
+-🖥 Currently working as a Software Engineer<br/>
 -🔭 Currently working on [a book app](https://github.com/bsherwood9/knjiga-fe)<br/>
 -🔍 Currently studying more about Data Structures and Algorithms<br/>
--📚 Currently reading [In Love With The World by Yongey Rinpoche](https://www.amazon.com/Love-World-Journey-Through-Bardos/dp/0525512535)<br/>
--🥅 2021 Goals: Find my first dev job!<br/>
+
 
 <h2>Get in Touch</h2>
 
