@@ -29,8 +29,4 @@
 <img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <br/>
 
-<h2>My Stats</h2>
-
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=bsherwood9&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsherwood9&layout=compact&hide=jupyter%20notebook" />
